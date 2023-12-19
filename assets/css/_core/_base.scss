@@ -39,7 +39,7 @@ html {
   }
 }
 
-body {
+html {
   background-color: $global-background-color;
   color: $global-font-color;
   @include overflow-wrap(break-word);
